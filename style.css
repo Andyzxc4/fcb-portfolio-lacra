@@ -46,11 +46,11 @@ ul {
 h2 {
 	/*Hex decimal can be added as a value for color. 
 	This is will allow us to specify a particular color*/
-	color: #007bff;
+	color: #000000;
 }
 
 /* Class selector - .className */
-.tools {
+/*.tools {
 	border: 5px solid #f2f2f2;
 	padding: 25px;
 	margin: 20px;
@@ -58,7 +58,7 @@ h2 {
 	The width of this element is at least 75% of its parent element 
 	or the element that contains.
 	width: 75%;
-}
+}*/
 
 html {
 	scroll-behavior: smooth;
